@@ -11,4 +11,3 @@ Example board
 # PINOUT
 
 ![Screenshot](/PICTURES/PINOUT_00.jpg)
-![Screenshot](/PICTURES/PINOUT_01.jpg)
