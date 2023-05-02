@@ -7,5 +7,8 @@ Example board
 ![Screenshot](/PICTURES/TOP_00.jpg)
 ![Screenshot](/PICTURES/TOP_01.jpg)
 ![Screenshot](/PICTURES/BOTTOM_00.jpg)
+
+# PINOUT
+
 ![Screenshot](/PICTURES/PINOUT_00.jpg)
 ![Screenshot](/PICTURES/PINOUT_01.jpg)
